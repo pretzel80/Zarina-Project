@@ -41,16 +41,6 @@ Opportunities:
 
 ##[Zarina](https://fe-28-client.herokuapp.com/ "Zarina")
 
-#####Oleksandr Mokhov
-- [Slider-Carousel]
-- [Header]
-- [Footer]
-- [Dashboard]
-- [404 page]
-- [Loader]
-- [Build]
-- [Deploy]
-
 #####Dmytro Zyakun
 - [Filtering](https://fe-28-client.herokuapp.com/products/filter?collections=Story,Jewel&minPrice=2818&maxPrice=15273&material=Gold&categories=bracelets&perPage=6&startPage=1)
 - [Sorting](https://fe-28-client.herokuapp.com/products/filter?minPrice=0&maxPrice=20000&sort=+currentPrice&perPage=6&startPage=1)
@@ -63,6 +53,16 @@ Opportunities:
 - [Favorites in header]
 - [404 product](https://fe-28-client.herokuapp.com/product/---)
 - [README.md]
+
+#####Oleksandr Mokhov
+- [Slider-Carousel]
+- [Header]
+- [Footer]
+- [Dashboard]
+- [404 page]
+- [Loader]
+- [Build]
+- [Deploy]
 
 #####Yaroslav Horobets
 - [Cart (_authorization required_)](https://fe-28-client.herokuapp.com/cart)
