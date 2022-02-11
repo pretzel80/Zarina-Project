@@ -1,0 +1,231 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.title {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 10px;
+    margin-top: 92px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px 0 87px;
+    width: 100%;
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto 0 100px;
+    }
+
+    &__leftPart {
+        display: flex;
+        flex-direction: column;
+        margin-right: 166px;
+    }
+
+    &__rightPart {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__checkbox {
+        border-radius: 0;
+    }
+
+    &__input {
+        background: none;
+        border: none;
+        border-bottom: 1px solid #80858d;
+        width: 380px;
+        outline: none;
+        margin-top: 42px;
+        font-size: 14px;
+        line-height: 10px;
+    }
+
+    &__input:focus {
+        border-bottom: 1px solid #262c37;
+    }
+
+    &__error {
+        font-size: 10px;
+        line-height: 10px;
+        color: #db3d3d;
+        margin-top: 8px;
+    }
+
+    &__button {
+        background-color: #002d50 !important;
+        padding: 18px 155px !important;
+        font-size: 14px !important;
+        line-height: 10px !important;
+        color: white !important;
+        border: none !important;
+        cursor: pointer !important;
+        margin-top: 39px !important;
+        text-transform: uppercase !important;
+        border-radius: 0 !important;
+    }
+
+    &__checkbox {
+        margin: 0 5px 0 0;
+    }
+
+    &__rightCheckbox {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        color: black;
+        margin-top: 30px;
+    }
+
+    &__rightCheckbox_text {
+        font-size: 12px;
+        line-height: 13px;
+        margin: 0 0 0 10px;
+    }
+}
+
+// @media screen and (min-width: 320px) {
+//     .form {
+//         margin: 0 auto;
+
+//         &__leftPart {
+//             margin-right: 6px;
+//         }
+
+//         &__input {
+
+//             width: 300px;
+//             margin-top: 12px;
+//         }
+
+//         &__container {
+//             display: flex;
+//             flex-direction: column;
+//             justify-content: space-between;
+//             margin: 10px;
+
+//         }
+
+//         &__button {
+
+//             margin-bottom: 15px !important;
+
+//         }
+//     }
+// }
+
+
+@media screen and (max-width: 1180px) {
+    .form {
+        margin: 0 auto;
+
+        &__leftPart {
+            width: 420px;
+            margin-right: 6px;
+        }
+
+        &__rightPart {
+            width: 420px;
+            margin-right: 6px;
+        }
+
+        &__input {
+
+            width: 410px !important;
+            margin-top: 12px;
+        }
+
+        &__container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin: 10px;
+
+        }
+
+        &__button {
+
+            margin-bottom: 15px !important;
+
+        }
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .form {
+        margin: 0 auto;
+
+        &__leftPart {
+            width: 320px;
+            margin-right: 6px;
+        }
+
+        &__rightPart {
+            width: 320px;
+            margin-right: 6px;
+        }
+
+        &__input {
+
+            width: 320px !important;
+            margin-top: 12px;
+        }
+
+        &__container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin: 10px;
+
+        }
+
+        &__button {
+
+            margin-bottom: 15px !important;
+
+        }
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .form {
+        margin: 0 auto;
+
+        &__leftPart {
+            margin-right: 6px;
+        }
+
+        &__input {
+
+            width: 300px;
+            margin-top: 12px;
+        }
+
+        &__container {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin: 10px;
+
+        }
+
+        &__button {
+
+            margin-bottom: 15px !important;
+
+        }
+    }
+}

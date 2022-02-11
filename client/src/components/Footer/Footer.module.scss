@@ -1,0 +1,14 @@
+.btm {
+  &__topLine {
+    background: linear-gradient(
+      90deg,
+      #002d50 0%,
+      #007395 69.91%,
+      #bc243f 96.25%
+    );
+    width: 100%;
+    height: 12px;
+    margin: 0;
+    border: none;
+  }
+}

@@ -1,0 +1,30 @@
+.loginSubmit {
+  min-width: 100px;
+  height: 30px;
+  color: black;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px 0 0 110px;
+  cursor: pointer;
+  background: white;
+  box-shadow: 4px 4px 8px 0 rgba(11, 19, 26, 0.2);
+}
+
+.loginSubmit:hover {
+  box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2) inset;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.passInput {
+  width: fit-content;
+  position: relative;
+  margin: 0 auto;
+}
+
+.isVisible {
+  cursor: pointer;
+  position: absolute;
+  bottom: 6px;
+  left: 177px;
+}

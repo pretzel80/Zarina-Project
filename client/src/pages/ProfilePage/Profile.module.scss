@@ -1,0 +1,114 @@
+// .buyerCart {
+//     max-width: 75%;
+//     display: flex;
+//     flex-wrap: wrap;
+//     flex-direction: column;
+//     justify-content: center;
+//     margin: 50px auto;
+// }
+
+// .emptyCart {
+//     width: fit-content;
+//     display: flex;
+//     flex-direction: column;
+//     margin: 0 auto;
+// }
+
+// .emptyCart img {
+//     width: fit-content;
+//     margin: 0 auto;
+// }
+
+// .cartWrapper {
+//     margin-top: 60px;
+//     display: flex;
+//     justify-content: center;
+// }
+
+// .revercedCardWrapper {
+//     margin-top: 60px;
+//     display: flex;
+//     justify-content: center;
+//     flex-direction: row-reverse;
+// }
+
+// .cartItems {
+//     padding-top: 30px;
+//     width: 60vw;
+//     height: 500px;
+//     display: flex;
+//     flex-direction: column;
+//     overflow: scroll;
+//     padding-right: 50px;
+//     border-right: 1px solid rgba(224, 224, 224, 1);
+//     margin-right: 20px;
+// }
+
+// .cartInfo {
+//     padding-left: 30px;
+//     display: flex;
+//     text-align: left;
+//     font-size: 14px;
+//     width: 35%;
+// }
+
+// .checkoutBtn {
+//     width: 100% !important;
+//     background: #002d50 !important;
+//     border: none !important;
+//     border-radius: 0% !important;
+//     color: white !important;
+//     font-size: 14px !important;
+//     cursor: pointer !important;
+// }
+
+// .totalImgs {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     position: relative;
+//     border-bottom: 1px solid rgba(224, 224, 224, 1);
+//     padding: 5px 10px 0 0;
+// }
+
+// .totalQuaCirc {
+//     width: 20px;
+//     position: absolute;
+//     border: 1px solid black;
+//     border-radius: 10px;
+//     text-align: center;
+//     left: 90px;
+//     top: 10px;
+//     background: #eff5ff;
+// }
+
+
+.cancelIcon:hover {
+    color: red;
+    transition: all 0.4s ease-in-out;
+}
+
+@media screen and (max-width: 1200px) {
+    .cartWrapper {
+        max-width: 100%;
+        flex-direction: column;
+    }
+
+    .revercedCardWrapper {
+        flex-direction: column;
+    }
+
+    .cartItems {
+        border-right: none;
+    }
+
+    .cartInfo {
+        margin-top: 30px;
+        width: 100%;
+        padding: 0;
+    }
+
+    .itemText {
+        display: none;
+    }
+}
