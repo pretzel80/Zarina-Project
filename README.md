@@ -32,7 +32,8 @@ Opportunities:
 **Technology stack**
 
 
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark-700x235.png" alt="React" style="width: 200px;"/><img src="https://v4.mui.com/static/logo_raw.svg" alt="MATERIAL-UI" style="width: 150px;"/>   | <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="Redux" style="width: 200px;"/>     |
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark-700x235.png" alt="React" style="width: 200px;"/>a&nbsp
+<img src="https://v4.mui.com/static/logo_raw.svg" alt="MATERIAL-UI" style="width: 150px;"/>   | <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="Redux" style="width: 200px;"/>     |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="git" style="width: 200px;"/>      | <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="Formik" style="width: 200px;"/>     |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/768px-GitLab_logo.svg.png" alt="GitLab" style="width: 200px;"/>|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Sass" style="width: 200px;"/>      | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png" alt="mongo DB" style="width: 200px;"/>     |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" alt="node JS" style="width: 200px;"/>|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="AXIOS" style="width: 200px;"/>      | <img src="https://blog.scottlogic.com/bquinn/assets/ESLint.png" alt="node JS" style="width: 200px;"/>     ||
