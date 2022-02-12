@@ -4,7 +4,7 @@
 **Teams of the project**:
 ```sh
 Oleksandr Mokhov
-Dmytro Zyakun
+**Dmytro Zyakun**
 Yaroslav Horobets 
 Liliia Tsyganok
 Yurii Godunov
