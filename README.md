@@ -11,8 +11,7 @@ Liliia Tsyganok
 Yurii Godunov
 ```
 :point_down::white_check_mark:
-# [Dmytro Zyakun](#dmytro-zyakun)
-
+# [Dmytro Zyakun](#dmytro-zyakun-link)
 
 
 ### Features
@@ -45,7 +44,7 @@ Opportunities:
 
 ##[Zarina](https://fe-28-client.herokuapp.com/ "Zarina")
 
-## [Dmytro Zyakun]
+# Dmytro Zyakun<a id='dmytro-zyakun-link'></a>
 - [Filtering](https://fe-28-client.herokuapp.com/products/filter?collections=Story,Jewel&minPrice=2818&maxPrice=15273&material=Gold&categories=bracelets&perPage=6&startPage=1)
 - [Sorting](https://fe-28-client.herokuapp.com/products/filter?minPrice=0&maxPrice=20000&sort=+currentPrice&perPage=6&startPage=1)
 - [Pagination](https://fe-28-client.herokuapp.com/products/filter?minPrice=0&maxPrice=20000&sort=+currentPrice&perPage=6&startPage=4)
