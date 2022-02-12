@@ -2,15 +2,20 @@
 ## _Final project of a group of students_
 
 **Teams of the project**:
-```sh
+
+```diff
 Oleksandr Mokhov
-**Dmytro Zyakun**
++Dmytro Zyakun
 Yaroslav Horobets 
 Liliia Tsyganok
 Yurii Godunov
 ```
+:point_down::white_check_mark:
+# [Dmytro Zyakun](#dmytro-zyakun)
 
-###Features
+
+
+### Features
 This project is a full-fledged online store with an adaptive version for mobile devices.
 Opportunities:
 - a page with a list of products,
@@ -40,7 +45,7 @@ Opportunities:
 
 ##[Zarina](https://fe-28-client.herokuapp.com/ "Zarina")
 
-#####Dmytro Zyakun
+## [Dmytro Zyakun]
 - [Filtering](https://fe-28-client.herokuapp.com/products/filter?collections=Story,Jewel&minPrice=2818&maxPrice=15273&material=Gold&categories=bracelets&perPage=6&startPage=1)
 - [Sorting](https://fe-28-client.herokuapp.com/products/filter?minPrice=0&maxPrice=20000&sort=+currentPrice&perPage=6&startPage=1)
 - [Pagination](https://fe-28-client.herokuapp.com/products/filter?minPrice=0&maxPrice=20000&sort=+currentPrice&perPage=6&startPage=4)
@@ -83,8 +88,7 @@ Opportunities:
 #####Yurii Godunov
 - [Contacts page](https://fe-28-client.herokuapp.com/contacts)
  
- __________________________
- 
+ __________________________ 
  
 **loginOrEmail:** customer@gmail.com
 **password:** 1111111
