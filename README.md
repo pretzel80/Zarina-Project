@@ -51,9 +51,9 @@ Opportunities:
 - [Favorites (_authorization required_)](https://fe-28-client.herokuapp.com/favorites)
 - [Recently viewed in product page]
 - [One product card](https://fe-28-client.herokuapp.com/product/619d568286b8924658506edc)
-- [Search in header]
+- [Search in header](https://fe-28-client.herokuapp.com/)
 - [Page with search results and sorting results](https://fe-28-client.herokuapp.com/search/?q=gold)
-- [Favorites in header]
+- [Favorites in header](https://fe-28-client.herokuapp.com/)
 - [404 product](https://fe-28-client.herokuapp.com/product/---)
 - [README.md]
 
